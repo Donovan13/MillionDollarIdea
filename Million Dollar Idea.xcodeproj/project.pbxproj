@@ -14,6 +14,7 @@
 		0904697B1FD73472000F326A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 090469791FD73472000F326A /* LaunchScreen.storyboard */; };
 		090469861FD73473000F326A /* Million_Dollar_IdeaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090469851FD73473000F326A /* Million_Dollar_IdeaTests.swift */; };
 		090469911FD73473000F326A /* Million_Dollar_IdeaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090469901FD73473000F326A /* Million_Dollar_IdeaUITests.swift */; };
+		090469A61FD74C79000F326A /* sample.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 090469A51FD74C79000F326A /* sample.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0904698C1FD73473000F326A /* Million Dollar IdeaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Million Dollar IdeaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		090469901FD73473000F326A /* Million_Dollar_IdeaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Million_Dollar_IdeaUITests.swift; sourceTree = "<group>"; };
 		090469921FD73473000F326A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		090469A51FD74C79000F326A /* sample.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sample.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				090469721FD73472000F326A /* ViewController.swift */,
 				090469741FD73472000F326A /* Main.storyboard */,
 				090469771FD73472000F326A /* Assets.xcassets */,
+				090469A51FD74C79000F326A /* sample.mp3 */,
 				090469791FD73472000F326A /* LaunchScreen.storyboard */,
 				0904697C1FD73472000F326A /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 			files = (
 				0904697B1FD73472000F326A /* LaunchScreen.storyboard in Resources */,
 				090469781FD73472000F326A /* Assets.xcassets in Resources */,
+				090469A61FD74C79000F326A /* sample.mp3 in Resources */,
 				090469761FD73472000F326A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
